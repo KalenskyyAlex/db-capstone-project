@@ -5,4 +5,5 @@
 - run all other queries in `queries` folder to create **Stored Procedures**, **Functions** and to **populate tables**
 	
 ## Link to Tableau Preview
+- https://public.tableau.com/app/profile/oleksandr.kalenskyy/viz/CapstoneProject_16980054154230/Dashboard1
 
